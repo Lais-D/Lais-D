@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a Lais Dias!
+# 👋🏾 Oi, eu sou a Lais Dias!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Trabalho atualmente com **NOC (Network Operations Center)**, atuando no monitoramento de redes e resolução de incidentes  
