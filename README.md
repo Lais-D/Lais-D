@@ -23,7 +23,8 @@
 ---
 
 ## 📌 Vamos nos conectar?
-🔗 [LinkedIn](https://www.linkedin.com/in/laisldias/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/laisldias/) 
+
 📂 [GitHub](https://github.com/Lais-D)  
 
 ---
