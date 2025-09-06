@@ -1,4 +1,29 @@
-## Hi there 👋
+## Sobre mim
+
+- Estudante de **Análise e Desenvolvimento de Sistemas**
+- Atuo na área de **NOC**, com monitoramento e tratamento de incidentes
+- Tenho interesse em **Banco de Dados, Qualidade de Software, Programação e Testes**
+
+---
+
+## Objetivos 
+- Aprender e desenvolver habilidades em **programação e banco de dados**  
+- Praticar conceitos de **qualidade de software e testes**
+- Crescer profissionalmente para atuar como **Analista de Sistemas** no futuro
+
+---
+
+## Me encontre também em:
+[LinkedIn](https://www.linkedin.com/in/laisldias/) 
+
+[GitHub](https://github.com/Lais-D)  
+
+
+
+
+
+
+
 
 <!--
 **Lais-D/Lais-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
